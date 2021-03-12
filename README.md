@@ -5,4 +5,5 @@
   
 ## Running 
   cd exec
+  
   ./fuzzy_control
